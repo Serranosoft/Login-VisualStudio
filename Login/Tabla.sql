@@ -1,0 +1,1 @@
+CREATE TABLE Usuarios(username VARCHAR(20) PRIMARY KEY, password VARCHAR(20), nombre VARCHAR(20), apellidos VARCHAR(40), edad INT(3), sexo VARCHAR(10), correo VARCHAR(30));
